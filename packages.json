@@ -1,0 +1,8 @@
+{
+  "name": "enpii/yii2-sample-app",
+  "version": "0.0.1",
+  "dist": {
+    "url": "git@gitlab.com:enpii/yii2-sample-app.git",
+    "type": "vcs"
+  }
+}

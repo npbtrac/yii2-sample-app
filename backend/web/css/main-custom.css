@@ -1,0 +1,8 @@
+/* line 2, ../sass/main-custom.scss */
+.has-error .help-block {
+  font-style: italic; }
+/* line 3, ../sass/main-custom.scss */
+.login .content .has-error p.help-block, .has-error p.help-block {
+  color: #a94442; }
+
+/*# sourceMappingURL=main-custom.css.map */
